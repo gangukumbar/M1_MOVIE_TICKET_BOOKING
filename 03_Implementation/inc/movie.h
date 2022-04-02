@@ -1,3 +1,15 @@
+/**
+ * @file movie.h
+ * @author Gangu Kumbar (you@domain.com)
+ * @brief
+ * @version 0.1
+ * @date 2022-04-02
+ *
+ * @copyright Copyright (c) 2022
+ *
+ */
+#ifndef__MOVIE_H
+#define__MOVIE_H
 
 /**
  * @brief Give the price of ticket
@@ -67,3 +79,5 @@ int movie(void);
  *
  */
 void details(void);
+
+#endif
