@@ -60,6 +60,6 @@ The purpose of this project is to build an application program to reduce the man
 |:---:|:---:|:---:|
 |L-1| User can view resrved ticket(Implemented)
 |L-2| User can edit the ticket price(Implemented)
-|L-3 User can Purchase a ticket(Implemented)
-|L-4 User can cancelicket(Implemented)
-|L-5User should be able to manage their data. |Future|
+|L-3| User can Purchase a ticket(Implemented)
+|L-4| User can cancelicket(Implemented)
+|L-5| User should be able to manage their data. |Future|
