@@ -3,38 +3,31 @@
 
 # Requirements
 ## Introduction
-In quiz game, questions are chosen in such a a way that they cover all fields of a typical quiz contest. The user’s general knowledge is tested with quiz questions regarding science, technology, movies, sports, general health, geography and many more.
+The "Online Movie Ticket Booking System" has been developed to override the problems prevailling in the practicing manual system. This software is supported to eliminate and in some cases reduce the hardships faced by this existing system.
 
 ## Research
-### QUIZ GAME...
-The source code is to be compiled in Code::Blocks with gcc compiler. This quiz game in C is not designed to run on the Turbo C versions. The source code for this mini project is around 1000 lines, so I didn’t want to display it here.
-
-![image](https://github.com/pallavi9019/M1_March_2022/blob/59e84a171d7bcf3bd502d74067d43659d4439241/1_Requirements/SWOT%20analysis/SWOT%20analysis%20(1).png)
+### ONLINE MOVIE TICKET BOOKING...
+The source code is to be compiled in Code::Blocks with gcc compiler. This online movie ticket booking system in C is not designed to run on the Turbo C versions. The source code for this mini project is around 1000 lines, so I didn’t want to display it here.
 -------------------------------------------------------------------------------------------------
 
 ## Cost and Features
-Our quiz games put the fun into learning. Your knowledge will be tested regarding a variety of subjects, including geography, cultures, and cartoons. Well-traveled players will love showcasing their map skills in every continent. Answer questions about international borders and capitals to score points and advance.
+Our Online movie ticket booking  put the fun into learning.can lead to error free,secure,reliable and fast management system.it can assist the user to concentrate on their other activities rather to concentrate on the record keeping.Thus it will help organization in better utilization of resources.
 
 
 ## Defining Our System
-* System bacically takes input from the user and executes the particular function the user selected, and then print the values.
-In this quiz game mini project, you can store the user name, view the highest score secured by a user, and even reset the score. Additionally, to make the game look a little more interesting, it is divided into two rounds; user must pass the first round to reach the second one.
+* The main objective of the project on Online Movie Ticket Booking System is to manage the details of Movie,Tickets, Booking Customer,Seats,Show timing.It manages all the information about Movie, Cinema Halls, Show timing,Movie. The project is totally built at administrative end and thus only the administratator is guaranteed the access.
 
-Of the 2 rounds I mentioned above, the first is called the Warm-up Round; the second is the Challenge round. In the warm-up round, the user is asked a total of three simple questions and they must be able to answer at least two of them correctly to enter the next round. If the user is not capable of doing that, he is not permitted to proceed further.
-
-
-## SWOT ANALYSIS
-![image](https://github.com/pallavi9019/M1_March_2022/blob/59e84a171d7bcf3bd502d74067d43659d4439241/1_Requirements/SWOT%20analysis/SWOT%20analysis%20(1).png)
+The purpose of this project is to build an application program to reduce the manual work for managing the movie,tickets,Cinema Halls,Booking Customer.
 
 # 4W&#39;s and 1&#39;H
 
 ## Who:
 
-* All the mind sport in which players liek students,children etc for work,fun and projects.
+* All the Users can use this system for work and projects.
 
 ## What:
 
-* project, a number of questions are asked, and the user is awarded cash prize for each correct answer given.
+* project, a number of Tickets are reserved, and the user can cancel the Ticket and also user can edit the price of ticket.
 
 ## When:
 
@@ -42,7 +35,7 @@ Of the 2 rounds I mentioned above, the first is called the Warm-up Round; the se
 
 ## Where:
 
-* This can be used in all over the globe. any student/working professional of any age can use it.
+* This can be used in all over the globe. any User/working professional of any age can use it.
 
 ## How:
 
@@ -53,11 +46,11 @@ Of the 2 rounds I mentioned above, the first is called the Warm-up Round; the se
 
 | ID | Description | Status (Implemented/Future)
 |:---:|:---:|:---:|
-|HLR-1| User shall be able to select the band the user need to get value in resistor code calculator. |Implemented|
-|HLR-2| System ask choice to continue. |Implemented|
-|HLR-3| user shall be able to get parameter value after giving any other  value. |Implemented|
-|HLR-4| user shall be able to get wrong correct answer. |Implemented|
-|HLR-5| user shall be able to get the history of the quiz game. |Future|
+|H-1| User shall be able to select the band the user need to get value in resistor code calculator. |Implemented|
+|H-2| System ask choice to continue. |Implemented|
+|H-3| user shall be able to get parameter value after giving any other  value. |Implemented|
+|H-4| user shall be able to get Ticket or he can edit the price of ticket,cancel the ticket. |Implemented|
+|H-5| user shall be able to get the history of the Online Ticket Booking. |Future|
 
 
 
@@ -65,6 +58,8 @@ Of the 2 rounds I mentioned above, the first is called the Warm-up Round; the se
 
 | ID | Description | Status (Implemented/Future)
 |:---:|:---:|:---:|
-|LLR-1| User shall be able to enter the value. |Implemented|
-|LLR-2| User shall be able to create their account. |Future|
-|LLR-3| User should be able to manage their data. |Future|
+|L-1| User can view resrved ticket(Implemented)
+|L-2| User can edit the ticket price(Implemented)
+|L-3 User can Purchase a ticket(Implemented)
+|L-4 User can cancelicket(Implemented)
+|L-5User should be able to manage their data. |Future|
